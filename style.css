@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+#aps {
+    width: 100%;
+    height: 800px;
+}
+
+img {
+    transition: transform .5s;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+#contacto{
+    background-color: coral;
+    
+}
+#contacto iframe {width: 100%;}
